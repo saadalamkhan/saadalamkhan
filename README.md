@@ -11,7 +11,7 @@ Hi! My name is Saad Khan and I am an inernational student from Pakistan. I antic
 
 **Education**
 
-DePaul University, Chicago, IL						      
+DePaul University, Chicago, IL
 Expected graduation: November 2022
 Bachelor Of Science in Computer Science 
 3.72 GPA
