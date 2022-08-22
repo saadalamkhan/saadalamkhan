@@ -33,6 +33,8 @@ System Anaylst - Intern (June 2022 - August 2022)
 Webhawkx, LLC - Laurel, MD
 
 •	Verified the approved datasets and uploaded them in the Pipeline Observation System Management Software (POSM). 
+
 •	Once the data was uploaded in POSM, verified the assets on Geographic Information System (GIS) and ensured that the POSM asset condition related reports, pictures and videos are available on the Client’s GIS platform.
+
 •	Implemented the Projects Controls System using Microsoft Project Management Solution which consists of Microsoft Project, Microsoft Project Server 2013, and SharePoint.
 
