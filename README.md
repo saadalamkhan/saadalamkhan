@@ -8,4 +8,22 @@ Hi! My name is Saad Khan and I am an inernational student from Pakistan. I antic
 - 🤔 I’m looking for help with networking.
 - 📫 How to reach me: saadalamkhan1@gmail.com
 - 😄 Pronouns: He/him/his
+
+##Education
+
+#DePaul University, Chicago, IL						      
+Expected graduation: December 2022
+Bachelor Of Science in Computer Science 
+3.72 GPA
+
+#Relevant Coursework:
+Python For Programmers, Discrete Mathematics, Data Structures, Computer Systems, Program Language Concepts, Data Analysis, Lab in Applied Computing, and Database Systems. 
+
+#Honors: 
+Dean’s List (Since enrollment)
+Transfer Scholarship of $12,000 (Annual)
+
+#Activities:
+Member of DePaul Community Service Association (Since Fall 2021)
+                                                     
 -->
